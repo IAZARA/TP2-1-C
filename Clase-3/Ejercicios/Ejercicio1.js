@@ -21,6 +21,14 @@ function obtenerPokemon(Ids){
     // Filtren todos esos y quedense con los que tengan los ids correspondientes
 
     // una vez tengan esos pokemons filtrados, generar la respuesta final
+
+    // / respuesta = {
+    //     //     charmander:{
+    //     //         id:
+    //     //         name:
+    //     //         altura:
+    //     //     }
+    //     // }
 }
 
 let ids = [3, 20, 40, 80, 148, 151]
