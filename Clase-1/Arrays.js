@@ -59,6 +59,7 @@ let encontrado = numeros.some( num => num == 6)
 // Every devuelve true si TODOS los elementos cumplen la condicion
 let encontrado2 = numeros.every( num => num < 5)
 
+
 // console.log("Algun elemento cumple la condicion? ", encontrado2);
 
 

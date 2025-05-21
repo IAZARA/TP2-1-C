@@ -25,6 +25,6 @@ const palabras = ["Neuquen", "Sol", "Hola", "Ana", "Oso", "Saludo", "Reconocer"]
 
 verificarPalindromo(palabras)
 
-// console.log(verificarPalindromo(palabras));
+console.log(verificarPalindromo(palabras));
 
 // deberia devolver  2 arrays, uno con las palabras palindromas y otro con las que normales
